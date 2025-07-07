@@ -8,9 +8,10 @@ This project showcases a Power BI dashboard built using Microsoft's Procurement 
 
 ## 📊 Key Insights
 - Spend Analysis by Month, Category, and Sub-Category
-- Vendor Performance and Ranking
+- Discount Analysis and Country Ranking
 - Discount Savings over time
-- Invoice trends by City and Tier
+- Invoice trends by City ,Country and Tier
+- Total Invoice by Category and Sub-Category
 
 
 ## 📁 Files
