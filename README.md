@@ -4,7 +4,6 @@ This project showcases a Power BI dashboard built using Microsoft's Procurement 
 
 ## 🔧 Tools Used
 - Power BI
-- DAX
 - Power Query
 
 ## 📊 Key Insights
@@ -13,12 +12,10 @@ This project showcases a Power BI dashboard built using Microsoft's Procurement 
 - Discount Savings over time
 - Invoice trends by City and Tier
 
-## 📷 Screenshots
-![Dashboard](screenshots/dashboard_overview.png)
 
 ## 📁 Files
 - `Procurement_Analysis_Report.pbix` – Main Power BI report
-- `/screenshots/` – Visuals of the report
+
 
 ## 📚 Reference
 Original dataset from Microsoft:  
